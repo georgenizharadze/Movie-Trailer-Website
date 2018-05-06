@@ -2,7 +2,7 @@ class Movie(object):
     """A class with basic information for a movining picture.
 
     Attributes:
-        title: A string containing movie title
+        title: A string representing the movie title
         poster_image_url: a string containing poster image url
     trailer_youtube_url: a string containing youtube trailer url
     """
